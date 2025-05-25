@@ -1,0 +1,2 @@
+https://gitlab.com/xavki/tutoriels-wazuh/-/blob/main/09-IDS-integration-suricata/slides.md?ref_type=heads
+reprendre le premier script, et ajouter les conseilles du gitlab + l'agent sur le script recent.
